@@ -18,27 +18,61 @@
   
   <img src='https://skillicons.dev/icons?i=py,&theme=dark'> 
   <img src='https://skillicons.dev/icons?i=r,&theme=dark'> 
+  <br>
+  <br>
+ 
+- **Data Automation/Orchestration**:
 
+  <img src='https://img.shields.io/badge/dbt-orange?logo=dbt&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Fivetran-0077FF?logo=fivetran&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?logo=google-tag-manager&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white'/>
+  <br>
   <br>
 
- 
-- **Data Automation/Orchestration**: <br>
-    <img src='https://github.com/Qamar247/Qamar247/blob/main/Dbt--Streamline-Svg-Logos.svg' alt='dbt Logo' width='100'/>
+- **Data Analysis**:
 
+    <img src='https://img.shields.io/badge/sheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white'/>
+    <img src='https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white'>
+    <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'>
+   <br>
+   <br>
 
+- **Data Visualization**:
+
+    <img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black'/>
+    <img src='https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white'alt="Looker Studio" style="height: 28px; width: 110px;"/>
+    <img src='https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white' alt="Looker Studio" style="height: 28px; width: 110px;" />
+    <img src='https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white' alt="Looker Studio" style="height: 28px; width: 110px;" />
+    <img src='https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white' alt="Looker Studio" style="height: 28px; width: 110px;" />
+    <br>
+    <br>
+
+- **Machine Learning**:
+    
+    <br>
+    <br>
+    
+- **Deep Learning**:
+
+    <br>
+    <br>
+
+  
 
      🚀 Frameworks & Library
     <img src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white'>
 
 
-     👩‍💻 IDE
+     👩‍💻 IDE Knowledge
      <img src='https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252'>
      <img src='https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important'>
      <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
 
      <img src='https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white'>
-     <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white'>
-     <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'>
+    
      <img src='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white'>
      <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'>
 
@@ -49,11 +83,10 @@
      <img src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white'>
      <img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
 
-      📅 Scheduling Automation Platforms
-          <img src='https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white'>
 
-      💻 Virtualization 
-     <img src='https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white'>
+      📅 Scheduling Automation Platforms
+  <img src='https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white'>
+
 
 
     <img src='https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black'>
@@ -67,15 +100,7 @@
     <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
   
   
-- **Data Analysis**:
 
-  ![Sheets](https://img.shields.io/badge/sheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-   <br>
-
-- **Data Visualization**:
 
 - **Other Tools**: Git, Jupyter Notebooks
 
