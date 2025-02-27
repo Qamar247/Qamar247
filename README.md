@@ -20,18 +20,13 @@
   <img src='https://skillicons.dev/icons?i=r,&theme=dark'> 
 
   <br>
+
  
-
-- **Data Automation/Orchestration**:
-
-<img src="https://vectorseek.com/vector_logo/dbt-logo-vector/" alt="dbt Logo" width="150"/>
-<img src="https://dbt-labs.github.io/dbt-branding/assets/dbt-logo-full-transparent.png" alt="dbt Logo" width="150"/>
-
-
-
-  <br>
+- **Data Automation/Orchestration**: <br>
+   <img src="https://github.com/Qamar247/Qamar247/blob/main/Dbt--Streamline-Svg-Logos.svg" alt="dbt Logo" width="100"/>
+   <img src="" alt="dbt Logo" width="100"/>
   
-- **Data Analysis**: <br>
+- **Data Analysis**:
 
   ![Sheets](https://img.shields.io/badge/sheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white) 
   ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
