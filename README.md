@@ -3,9 +3,10 @@
 </h2>
 
 <div align="center">
-  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Full time learner ;Part time Data Analyst' alt='Typing SVG' />
+  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00bf63&center=true&width=435&lines=Full time learner ;Part time Data Pro' alt='Typing SVG' />
 </div>
 
+# About Me
 - Passionate data analyst turning data into actionable insights.
 - Enjoy working with data to solve complex business problems and impact business decision-making.
 
@@ -19,15 +20,26 @@
   <img src='https://skillicons.dev/icons?i=r,&theme=dark'> 
 
   <br>
-  
-- **Data Analysis Tools**: Google Sheets, SQL, Tableau, Power BI,
-  <img src='https://skillicons.dev/icons?i=googlesheets,&theme=dark'> 
-  <img src='https://skillicons.dev/icons?i=sql,&theme=dark'> 
- - ![Excel](https://img.shields.io/badge/Googlesheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-  - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-  - ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+ 
 
+- **Data Automation/Orchestration**:
+
+<img src="https://vectorseek.com/vector_logo/dbt-logo-vector/" alt="dbt Logo" width="150"/>
+<img src="https://dbt-labs.github.io/dbt-branding/assets/dbt-logo-full-transparent.png" alt="dbt Logo" width="150"/>
+
+
+
+  <br>
+  
+- **Data Analysis**: <br>
+
+  ![Sheets](https://img.shields.io/badge/sheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+   <br>
+
+- **Data Visualization**:
 
 - **Other Tools**: Git, Jupyter Notebooks
 
