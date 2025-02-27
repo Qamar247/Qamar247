@@ -23,8 +23,49 @@
 
  
 - **Data Automation/Orchestration**: <br>
-   <img src="https://github.com/Qamar247/Qamar247/blob/main/Dbt--Streamline-Svg-Logos.svg" alt="dbt Logo" width="100"/>
-   <img src="" alt="dbt Logo" width="100"/>
+
+   <img src='https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white'>
+   <img src=''>
+
+     🚀 Frameworks & Library
+    <img src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white'>
+
+
+     👩‍💻 IDE
+     <img src='https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252'>
+     <img src='https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important'>
+     <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
+
+     <img src='https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white'>
+     <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white'>
+     <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'>
+     <img src='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white'>
+     <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'>
+
+     <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'>
+
+     <img src='https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white'>
+     <img src='https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white'>
+     <img src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white'>
+     <img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
+
+      📅 Scheduling Automation Platforms
+          <img src='https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white'>
+
+      💻 Virtualization 
+     <img src='https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white'>
+
+
+    <img src='https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black'>
+    <img src='https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white'>
+    <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'>
+    <img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'>
+    <img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'>
+
+    ⚡ Database
+    <img src='https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white'>
+    <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
+  
   
 - **Data Analysis**:
 
