@@ -23,9 +23,9 @@
 
  
 - **Data Automation/Orchestration**: <br>
+    <img src='https://github.com/Qamar247/Qamar247/blob/main/Dbt--Streamline-Svg-Logos.svg' alt='dbt Logo' width='100'/>
 
-   <img src='https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white'>
-   <img src=''>
+
 
      🚀 Frameworks & Library
     <img src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white'>
