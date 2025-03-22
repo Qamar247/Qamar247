@@ -108,7 +108,7 @@
   <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=Qamar247&repo=GradeMate-Predictive-Student-Performance&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
 </a>
 
-<a href="https://github.com/Qamar247/Optimizing">
+<a href="https://github.com/Qamar247/NovaTerra">
   <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=Qamar247&repo=Optimizing-Marketing-Campaigns-for-Enhanced-ROI &show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
 </a>
 <br>
