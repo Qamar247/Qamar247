@@ -118,17 +118,6 @@
 <br> 
 
 
-# Stats and Activity 📊
-![Qamar GitHub stats](https://github-readme-stats.vercel.app/api?username=Qamar&show_icons=true&theme=transparent)
-
-<br>
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Qamar247&label=Profile+Views&color=0c3666)
-
-<br>
-<br>
-
 
 # 📫 Contact for Projects
 
