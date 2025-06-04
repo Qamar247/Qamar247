@@ -119,18 +119,4 @@
 
 
 
-# 📫 Contact for Projects
-
-<div align="left">
-  <a href="https://qamar247.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Contact%20Me-00bf63?style=for-the-badge&logoColor=white" alt="Contact Me" style="background-color: #00bf63; color: white;">
-  </a>  &nbsp;&nbsp;&nbsp;&nbsp;
- 
-  <a href="https://www.linkedin.com/in/qamaribrahim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-</div>
-
-
-
 
